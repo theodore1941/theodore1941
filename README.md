@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**theodore1941/theodore1941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🇬🇧 About Me
 
-Here are some ideas to get you started:
+I'm Theodore, an 18-year-old software developer with a strong interest in networking technologies and infrastructure engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary areas of interest include network infrastructure, secure tunneling, proxy architectures, traffic routing optimization, and low-level network protocols. I focus on designing scalable, reliable, and high-performance solutions while exploring the underlying principles of distributed systems and network communication.
+
+I continuously expand my knowledge, improve my technical skills, and approach every project as an opportunity to build efficient, maintainable, and well-engineered software.
+
+---
+
+# 🇷🇺 Обо мне
+
+Меня зовут Theodore, мне 18 лет. Я занимаюсь разработкой программного обеспечения с акцентом на сетевые технологии и инфраструктурные решения.
+
+Моя основная область интересов охватывает сетевую инфраструктуру, защищённые механизмы туннелирования, прокси-архитектуры, оптимизацию маршрутизации трафика и исследование низкоуровневых сетевых протоколов. Основное внимание уделяю проектированию масштабируемых, надёжных и производительных решений, а также изучению принципов взаимодействия распределённых систем и сетевых компонентов.
+
+Постоянно совершенствую свои навыки, изучаю современные технологии и рассматриваю каждый проект как возможность создавать эффективные и качественные программные решения.
+
+
