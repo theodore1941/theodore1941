@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 # 🇬🇧 About Me
 
 I'm Theodore, an 18-year-old software developer with a strong interest in networking technologies and infrastructure engineering.
