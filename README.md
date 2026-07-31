@@ -7,7 +7,7 @@ My primary areas of interest include network infrastructure, secure tunneling, p
 
 I continuously expand my knowledge, improve my technical skills, and approach every project as an opportunity to build efficient, maintainable, and well-engineered software.
 
----
+
 
 # 🇷🇺 Обо мне
 
